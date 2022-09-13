@@ -1,2 +1,2 @@
-Olá esse é o projeto da CMTech!
+Olá esse é o projeto!
 Isso é uma alteração
